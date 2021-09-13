@@ -1,5 +1,5 @@
 #!/bin/bash
-source config.cfg
+
 #PREPARE UBUNTU
 #Add Havana repositories
 apt-get -y install ubuntu-cloud-keyring python-software-properties software-properties-common python-keyring
